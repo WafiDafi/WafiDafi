@@ -8,9 +8,8 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
 
 
-**Fun fact (make a repository with your github name and add a `README.md` to add cool profile text like this :> 
-------------------------------------------------------------------------------------------------------------------
-**
+Fun fact (make a repository with your github name and add a `README.md` to add cool profile text like this :> 
+
 ```
 ### 🧰 Languages and Tools
 
